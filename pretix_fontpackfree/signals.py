@@ -455,4 +455,70 @@ def fontpack_free(sender, **kwargs):
                 "woff2": basepath + "/space-mono-v10-latin-ext_latin-700italic.woff2",
             },
         },
+        "Britanica Black": {
+            "regular": {
+                "truetype": basepath + "/Britanica-Black.ttf",
+                "woff": basepath + "/Britanica-Black.woff",
+                "woff2": basepath + "/Britanica-Black.woff2",
+            },
+            "bold": {
+                "truetype": basepath + "/Britanica-Black.ttf",
+                "woff": basepath + "/Britanica-Black.woff",
+                "woff2": basepath + "/Britanica-Black.woff2",
+            },
+            "italic": {
+                "truetype": basepath + "/Britanica-Black.ttf",
+                "woff": basepath + "/Britanica-Black.woff",
+                "woff2": basepath + "/Britanica-Black.woff2",
+            },
+            "bolditalic": {
+                "truetype": basepath + "/Britanica-Black.ttf",
+                "woff": basepath + "/Britanica-Black.woff",
+                "woff2": basepath + "/Britanica-Black.woff2",
+            },
+        },
+        "Gabarito": {
+            "regular": {
+                "truetype": basepath + "/Gabarito-Regular.ttf",
+                "woff": basepath + "/Gabarito-Regular.woff",
+                "woff2": basepath + "/Gabarito-Regular.woff2",
+            },
+            "bold": {
+                "truetype": basepath + "/Gabarito-Bold.ttf",
+                "woff": basepath + "/Gabarito-Bold.woff",
+                "woff2": basepath + "/Gabarito-Bold.woff2",
+            },
+            "italic": {
+                "truetype": basepath + "/Gabarito-Medium.ttf",
+                "woff": basepath + "/Gabarito-Medium.woff",
+                "woff2": basepath + "/Gabarito-Medium.woff2",
+            },
+            "bolditalic": {
+                "truetype": basepath + "/Gabarito-SemiBold.ttf",
+                "woff": basepath + "/Gabarito-SemiBold.woff",
+                "woff2": basepath + "/Gabarito-SemiBold.woff2",
+            },
+        },
+        "Gabarito Black": {
+            "regular": {
+                "truetype": basepath + "/Gabarito-Black.ttf",
+                "woff": basepath + "/Gabarito-Black.woff",
+                "woff2": basepath + "/Gabarito-Black.woff2",
+            },
+            "bold": {
+                "truetype": basepath + "/Gabarito-Black.ttf",
+                "woff": basepath + "/Gabarito-Black.woff",
+                "woff2": basepath + "/Gabarito-Black.woff2",
+            },
+            "italic": {
+                "truetype": basepath + "/Gabarito-ExtraBold.ttf",
+                "woff": basepath + "/Gabarito-ExtraBold.woff",
+                "woff2": basepath + "/Gabarito-ExtraBold.woff2",
+            },
+            "bolditalic": {
+                "truetype": basepath + "/Gabarito-ExtraBold.ttf",
+                "woff": basepath + "/Gabarito-ExtraBold.woff",
+                "woff2": basepath + "/Gabarito-ExtraBold.woff2",
+            },
+        },
     }
